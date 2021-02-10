@@ -34,13 +34,13 @@ Before first meeting read introductory material:
       - VS Code GUI: click source control button on the left hand side of the editor
 			*This is a more visual representation of your current changes. Red shows delete content and green shows new content.*
 
-5. Add changes
-    - Command line: `~git-demo$ git add .`
-    - VS Code GUI:  In the version control view, click the + button next to your new file to “stage” your changes
+    - Add changes
+    	- Command line: `~git-demo$ git add .`
+    	- VS Code GUI:  In the version control view, click the + button next to your new file to “stage” your changes
 
-6. Make a commit message:
-    - Command line: `~git-demo$ git commit -m “adding new file”
-    - VS Code GUI: In the text field type your message and click the checkbox
+    - Make a commit message:
+    	- Command line: `~git-demo$ git commit -m “adding new file”
+    	- VS Code GUI: In the text field type your message and click the checkbox
 
 #### Section 2: Branching and merging
 1. Create a branch. <br />
