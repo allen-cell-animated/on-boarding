@@ -8,6 +8,9 @@ Before first meeting read introductory material:
 ### Demo:
 #### Section 1: Initialize git
 0. Install git
+Windows:
+- conda install -c anaconda git
+
 1. Make a directory called `git-demo`
    - In the terminal navigate to directory you’re going to create your new folder in
    - `mkdir git-demo`
