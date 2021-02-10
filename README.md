@@ -10,6 +10,8 @@ Before first meeting read introductory material:
 0. Install git
 Windows:
 - conda install -c anaconda git
+- `git config --global user.email "you@example.com:`
+- `git configure --global user.name "Your Name"`
 
 1. Make a directory called `git-demo`
    - In the terminal navigate to directory you’re going to create your new folder in
