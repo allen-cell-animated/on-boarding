@@ -1,6 +1,6 @@
 # Intro to Git and Github
 Before first meeting read introductory material: 
-1. [github git intro](https://guides.github.com/introduction/git-handbook/)
+1. [git handbook](https://guides.github.com/introduction/git-handbook/)
 2. [source code management](https://www.atlassian.com/git/tutorials/source-code-management)
 
 ## First meeting: Intro to git 
