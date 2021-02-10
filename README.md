@@ -69,5 +69,5 @@ print('Hello there', sys.argv[1])
     - Terminal:  `~git-demo$ git branch -m master main`
     - VS Code: In source control, click the three little dots to get a drop down menu, go to <strong>Branch… > Rename branch</strong>
 6. Merge your changes into your main branch
-    - Terminal: :` ~git-demo$ git merge-feature/adding-argv`.
+    - Terminal: :` ~git-demo$ git merge feature/adding-argv`.
     - VS Code: In source control, click the three little dots to get a drop down menu, go to Branch… > Merge branch, select the branch you want to merge. 
